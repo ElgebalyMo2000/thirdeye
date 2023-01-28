@@ -14,7 +14,7 @@ class _MainPageState extends State<MainPage> {
         title: const Text('Main Page'),
         ),
       body: const Center(
-        child: Text('Main Page55tessst ',style:TextStyle(fontSize: 40 ),)
+        child: Text('Main Page',style:TextStyle(fontSize: 40 ),)
         ),
     );
     
